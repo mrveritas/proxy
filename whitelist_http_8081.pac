@@ -60,6 +60,7 @@ var RULES = [
         ".wangyin.com",
         ".gewara.com",
         ".ele.me",
+        ".quinnemanuel.com",        
         ".teambition.com",
         ".anquanbao.com",
         ".ziroom.com",
